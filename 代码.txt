@@ -1,0 +1,6 @@
+强行加好友
+tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=574201314&fuin=674524598&website=www.oicqzone.com
+添加会话
+tencent://Message/?Uin=574201314&websiteName=www.oicqzone.com&Menu=yes
+效果同上
+tencent://message/?Menu=yes&uin=29183067&Service=300&sigT=45a1e5847943b64c6ff3990f8a9e644d2b31356cb0b4ac6b24663a3c8dd0f8aa12a595b1714f9d45
